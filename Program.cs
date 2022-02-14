@@ -3,7 +3,7 @@ using Microsoft.Win32.TaskScheduler;
 
 namespace SharpComHijack
 {
-    class Program
+    public static class Program
     {
         public static List<Task> availableTasks = new List<Task>();
 
