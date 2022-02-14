@@ -1,7 +1,7 @@
 # SharpComHijack
 
 ## What it do
-* Dumps com objects that can be hijacked for persistence.
+* Dumps com objects that can be hijacked for persistence. Information pulled from task scheduler
 
 ## Example
 ```
